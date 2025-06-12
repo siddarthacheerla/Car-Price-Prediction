@@ -1,0 +1,7 @@
+ Car price prediction helps estimate the cost of a car based on various features like engine size, horsepower,
+ mileage, and body type. This project uses machine learning and a web interface to predict car prices
+ effectively
+Technologies Used-
+Python- Pandas,
+Scikit-learn, 
+Joblib- Streamlit- JSON for metadata
